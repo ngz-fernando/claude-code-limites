@@ -1,0 +1,6 @@
+{
+  "name": "imperio-mods",
+  "description": "Mods de Claude Code hechos en Imperio Agentico.",
+  "owner": { "name": "Fernando Navarro Gonzalez" },
+  "plugins": [{ "name": "limites", "source": "./" }]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "limites",
+  "version": "0.1.0",
+  "description": "Ves tus limites de Claude Code sin pedirlos: contexto, ventana de 5h, ventana de 7 dias y gasto, en una linea sobre el prompt.",
+  "author": { "name": "Fernando Navarro Gonzalez" },
+  "types": "./types/index.d.ts"
+}
